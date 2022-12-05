@@ -88,6 +88,17 @@ Choose from the list :
 
 PROGRAM 2 SORTING -QUICK SORT
 
+Enter the number of names: 
+5
+Enter the names: 
+Mekha 
+Sidharth 
+Bineetha
+Srilakshmi 
+Riya 
+Sorted array
+ Bineetha Mekha  Riya  Sidharth Srilakshmi  
+
 PROGRAM3 BINARY SEARCH 
 
 Enter the size of the array 
